@@ -1,0 +1,1 @@
+exports.url="mongodb+srv://ankit:87654321@cluster0.rmpmo.mongodb.net/aadhar?retryWrites=true&w=majority"
